@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "pikserax.ikikalpbirdeste",
+    "sha256_cert_fingerprints": [
+      "62:E6:40:32:00:AE:AC:BA:02:D1:6B:4A:0D:7A:40:FE:84:A3:6C:3F:F7:CD:23:69:71:32:92:76:55:13:8F:02"
+    ]
+  }
+}]
